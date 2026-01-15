@@ -1,0 +1,15 @@
+{
+  "version": "1.0.1",
+  "status": "in-dev",
+  "message": "currently in-dev but messages seen on home page would go here",
+  "admins": [
+    {
+      "name": "lerpy",
+      "user-id": "B07CFC0E1E88BEFC"
+    },
+    {
+      "name": "sudzy",
+      "user-id": "placeholder"
+    }
+  ]
+}
